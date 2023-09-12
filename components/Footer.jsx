@@ -111,7 +111,7 @@ const Footer = ({direction}) => {
               </div>
             </div>
           </div>
-          <div className="cursor-pointer text-center w-[72%] md:w-[51%] lg:w-[36%] mt-[90px] py-3 m-auto border-2 border-[#c1e8ff] rounded-full">Created By <strong className="hover:text-[#c1e8ff] ease-in duration-150 font-medium">Millaamedun</strong></div>
+          <div className="cursor-pointer text-center w-[72%] md:w-[51%] lg:w-[36%] mt-[90px] py-1.5 m-auto border-2 border-[#c1e8ff] rounded-full">Created By <strong className="hover:text-[#c1e8ff] text-sm ease-in duration-150 font-medium">Millaamedun</strong></div>
         </div>
       </div>
     </div>
